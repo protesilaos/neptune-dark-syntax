@@ -22,6 +22,6 @@ apm install neptune-dark-syntax
 
 ## Further information
 
-Project page: [http://www.protesilaos.com/neptune](http://www.protesilaos.com/neptune)
+Project page: [https://protesilaos.com/neptune](https://protesilaos.com/neptune)
 
 Neptune light version: [https://atom.io/themes/neptune-syntax](https://atom.io/themes/neptune-syntax)
