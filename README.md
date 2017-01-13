@@ -4,13 +4,18 @@ A medium contrast theme. *Neptune* comes in light and dark variants. The most pr
 
 *Neptune* comes in separate light and dark variants.
 
-## Screenshot
+## Screenshots
 
-![neptune dark screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/neptune/img/neptune_dark_sample.png)
+![neptune dark screenshot html](https://raw.githubusercontent.com/protesilaos/prot16/master/neptune/img/neptune_dark_html.png)
 
-*The font is [Iosevka term slab](https://github.com/be5invis/Iosevka)*.  
-*JavaScript demo is source code of [prismjs](http://prismjs.com/)*  
-*The UI is my experimental fork of the default One Dark*.
+![neptune dark screenshot scss](https://raw.githubusercontent.com/protesilaos/prot16/master/neptune/img/neptune_dark_scss.png)
+
+![neptune dark screenshot js](https://raw.githubusercontent.com/protesilaos/prot16/master/neptune/img/neptune_dark_js.png)
+
+![neptune dark screenshot md](https://raw.githubusercontent.com/protesilaos/prot16/master/neptune/img/neptune_dark_md.png)
+
+*The font is [Iosevka term](https://github.com/be5invis/Iosevka)*.  
+*The UI is [Atom Material](https://github.com/atom-material/atom-material-ui)*.
 
 ## Download
 
